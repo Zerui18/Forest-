@@ -1,0 +1,9 @@
+Package: com.zx02.forest++
+Name: forest++
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Make it your forest.
+Maintainer: Zerui Chen
+Author: Zerui Chen
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
